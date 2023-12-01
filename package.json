@@ -1,0 +1,25 @@
+{
+  "name": "blankpaper",
+  "version": "1.0.0",
+  "description": "a online editor include charts,board,mind,draw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanxiaosss/blankpaper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanxiaosss/blankpaper/issues"
+  },
+  "homepage": "https://github.com/hanxiaosss/blankpaper#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-router-dom": "^6.20.0",
+    "roughjs": "^4.6.6",
+    "vite": "^5.0.4"
+  }
+}
